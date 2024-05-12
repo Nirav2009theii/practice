@@ -1,0 +1,11 @@
+body{
+    background-color:lightgrey ;
+}
+.pl{
+    text-align: center;
+    border:  solid lightgray 3px;
+    font-family: serif ;
+    border-radius: 15px;
+background-color: lightslategray;
+}
+
